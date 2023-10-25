@@ -1,5 +1,5 @@
 # Basic-Codes
-These Files contains :
+These Files contains 
 FACTORIAL 
 RANKING OF PLAYER'S
 CHESS BOARD
